@@ -7,17 +7,17 @@ body{
     height: 400px;
     width: 400px;
     color: white;
-   display: flex;
-   justify-content: end;
+  
 }
-.span{
-    display:full;
-    margin: 0%;
+span{
+    
+    height: 10px;
 }
 .d2{
     background-color: aqua;
     color: black;
     height: 200px;
     width: 200px;
-    margin-top: 200px;
+    margin-top: 182px;
+    margin-left: 200px;
 }
