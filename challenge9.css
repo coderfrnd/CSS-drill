@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+.d1{
+    height: 700px;
+    width: 600px;
+    background-color: black;
+    color: white;
+}
+.d2{
+    color: brown;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+.d3{
+    color: brown;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 200px;
+}
