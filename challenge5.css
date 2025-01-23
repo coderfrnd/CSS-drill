@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    
+}
+
+.firstdiv{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    color: white;
+}
+.d1{
+    display: flex;
+    justify-content: end;
+}
+.d2{
+    display: flex;
+    justify-content: center;
+}
+.d3{
+    display: flex;
+    justify-content: start;
+}
