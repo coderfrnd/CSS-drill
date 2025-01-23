@@ -1,0 +1,81 @@
+/*
+ Method 1 without using any external div just using body
+body {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+   
+  }
+
+ 
+  .div1 {
+    
+  }
+  
+  .div2 {
+    margin-left: 83%;
+  }
+  
+  .div3 {
+    
+  }
+ 
+  
+  */
+
+
+  /* Method 2 ---- >   */
+  body {
+    margin: 0;
+    display: flex;
+    
+    
+   
+}
+
+#newdiv{
+
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    justify-content: end;
+
+
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    /* justify-content: end; */
+   
+  }
+
+ 
+  .div1 {
+    
+  }
+  
+  .div2 {
+    margin-right: 12px;
+   
+   
+    
+  }
+  
+  .div3 {
+    
+    
+  }
+ 
+
