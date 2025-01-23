@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.d1{
+    background-color: black;
+    height: 400px;
+    width: 400px;
+    color: white;
+  
+}
+span{
+    
+    height: 10px;
+}
+.d2{
+    background-color: aqua;
+    color: black;
+    height: 200px;
+    width: 200px;
+    margin-top: 182px;
+    margin-left: 200px;
+}
