@@ -1,0 +1,23 @@
+
+/* Challenge 4 */
+
+body{
+    margin: 0;
+}
+
+.div1{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    color: red;
+}
+
+.div2{
+    color: black;
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin-top: 50%;
+    margin-left: 50%;
+
+}
